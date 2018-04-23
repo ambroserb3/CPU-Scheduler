@@ -1,2 +1,2 @@
 # CPU-Scheduler
-Operating Systems
+A simple Round Robin CPU scheduling simu
