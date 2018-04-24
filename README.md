@@ -1,2 +1,2 @@
 # CPU-Scheduler
-A simple Round Robin CPU scheduling simu
+A simple Round Robin CPU scheduling simulator.
